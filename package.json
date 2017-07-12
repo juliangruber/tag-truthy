@@ -1,0 +1,14 @@
+{
+  "name": "tag-truthy",
+  "version": "0.0.0",
+  "license": "MIT",
+  "repository": "juliangruber/tag-truthy",
+  "description": "Tagged template function that filters falsy values",
+  "scripts": {
+    "test": "prettier-standard index.js && standard"
+  },
+  "devDependencies": {
+    "prettier-standard": "^6.0.0",
+    "standard": "^10.0.2"
+  }
+}
